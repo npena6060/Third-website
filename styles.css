@@ -7,3 +7,12 @@ h1{color:blanchedalmond;
 img{
     border-radius: 50;
 }
+
+#special{
+    color:darkseagreen;
+}
+
+#special2{
+    color: blueviolet;
+    background-color: aqua;
+}
